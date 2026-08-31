@@ -8,6 +8,8 @@ i am iam
 <<<<<<< HEAD
 omdutt
 tanishhhhhhhhhh
-=======
 okkokkokokok
->>>>>>> cdf98c1 (ok written on frature branch)
+ (ok written on frature branch)
+hihihhihiihihihi
+
+(commit added hiiiii)
